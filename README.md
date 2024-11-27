@@ -23,19 +23,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Chatbot com dúvidas mais frequentes dos clientes Caixa.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+OpenIA, microsoft copilot.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Alimentar IA com material institucional relevante ao cliente.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Chatbot funcional.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Parceria com empresas podem ser difíceis de negociar.
 ```
 
 ### Exemplos e Insigths
